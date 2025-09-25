@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**chahatbegmal/chahatbegmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 👋 Hi there! I'm Chahat Begmal
+# 👋 Hi there! I'm Chahat Begmal
 
 Welcome to my GitHub profile!  
 I'm passionate about technology, coding, and continuous learning. Here, you'll find a showcase of my projects, skills, and contributions in the software development world.
@@ -49,10 +41,3 @@ I'm passionate about technology, coding, and continuous learning. Here, you'll f
 ---
 
 Thanks for stopping by! Feel free to explore my repositories and reach out for collaboration or networking.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
